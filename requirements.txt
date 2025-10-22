@@ -1,0 +1,36 @@
+# --- Data Science Core ---
+pandas>=2.2
+numpy>=2.0
+scipy>=1.11
+scikit-learn==1.7.0
+
+# --- Visualization ---
+plotly>=5.22
+seaborn==0.13.2
+matplotlib>=3.9.0
+
+# --- Explainability ---
+shap==0.48.0
+
+# --- Jupyter / Dev Tools ---
+jupyter==1.1.1
+watchdog==6.0.0
+ipykernel>=6.29.0
+tqdm>=4.66.0
+
+# --- ML/DL Core ---
+torch>=2.3.0
+torchvision>=0.18.0
+torchaudio>=2.3.0
+tqdm>=4.66.0
+
+# --- Federated Learning ---
+tensorflow>=2.16.0
+
+# --- Image Handling ---
+opencv-python>=4.10.0
+Pillow>=10.3.0
+
+# --- Utilities ---
+matplotlib>=3.9.0
+ipykernel>=6.29.0
