@@ -1,0 +1,15 @@
+# --- Ignore virtual environment ---
+env/
+
+# --- Ignore dataset folders (too large for GitHub) ---
+data/Training/
+data/Testing/
+
+# --- Ignore Python cache files ---
+__pycache__/
+.ipynb_checkpoints/
+
+# --- Ignore log, zip, and temporary files ---
+*.zip
+*.log
+*.tmp
